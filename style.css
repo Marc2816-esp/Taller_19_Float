@@ -17,14 +17,20 @@ P {
 #div-1a {
   background-color: #d33;
   color: #fff;
+  float: left;
+  width: 30%;
 }
 
 #div-1b {
   background-color: #3d3;
   color: #fff;
+  float: left;
+  width: 30%;
 }
 
 #div-1c {
   background-color: #33d;
   color: #fff;
+  clear: left;
 }
+
